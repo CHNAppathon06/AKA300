@@ -5,7 +5,7 @@
 - These embeddings are designed to capture semantic meaning, making them useful for various Natural Language Processing (NLP) tasks, such as text similarity, search, clustering, and classification.
 
 ### Approach
-- The application leverages two deep learning models minilm and mpnet
+- The application leverages two deep learning models `all-MiniLM-L6-v2` and `all-mpnet-base-v2`
 - The model is initiated
 - The obsolete records are removed in the first method and the nulls are dropped
 - Computes cosine similarity
