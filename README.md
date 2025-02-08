@@ -6,7 +6,7 @@
 ### Approach
 - The application leverages two deep learning models minilm and mpnet
 - The model is initiated
-- The obsolete records are removed in the first method
+- The obsolete records are removed in the first method and the nulls are dropped
 - Computes cosine similarity
 - Computes bert score (excluded - applicable only for a one-to-one mapping)
 - Finds the best match. Since the target has more number of fields, we find the best match for every target field from the source and a similarity score is calculated.
