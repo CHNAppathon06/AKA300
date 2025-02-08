@@ -1,6 +1,6 @@
 # Application to map field between a source and target
 
-### Sentence Transformer
+### Sentence Transformer - Bidirectional Encoder Representations from Transformers BERT
 - A Sentence Transformer is a deep learning model that converts sentences, phrases, or words into high-dimensional vector representations (embeddings). These embeddings are designed to capture semantic meaning, making them useful for various Natural Language Processing (NLP) tasks, such as text similarity, search, clustering, and classification.
 
 ### Approach
